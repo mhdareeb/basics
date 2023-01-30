@@ -8,3 +8,7 @@ void sayHi()
 {
     cout << "Hiiii" << endl;
 }
+void print(String text)
+{
+    cout << text << endl;
+}
