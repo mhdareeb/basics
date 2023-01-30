@@ -1,2 +1,10 @@
 commit 1
 commti 2
+void main()
+{
+    cout << "Hello World" << endl;
+}
+void sayHi()
+{
+    cout << "Hiiii" << endl;
+}
