@@ -1,2 +1,6 @@
 commit 1
 commti 2
+void main()
+{
+    cout << "Hello World" << endl;
+}
