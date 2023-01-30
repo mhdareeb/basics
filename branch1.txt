@@ -4,3 +4,7 @@ void main()
 {
     cout << "Hello World" << endl;
 }
+void sayHi()
+{
+    cout << "Hiiii" << endl;
+}
